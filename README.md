@@ -9,12 +9,20 @@ Data: https://drive.google.com/file/d/1t8coKqdKlAS7RdEdSzVhRkTSpQ1KQ89E/view?usp
 
 
 # Bibliography entry:
-@article{ning2021audio,//
-  title={Audio description from image by modal translation network},//
-  author={Ning, Hailong and Zheng, Xiangtao and Yuan, Yuan and Lu, Xiaoqiang},//
-  journal={Neurocomputing},\\
-  volume={423},\\
-  pages={124--134},\\
-  year={2021},\\
-  publisher={Elsevier}\\
+@article{ning2021audio,
+
+  title={Audio description from image by modal translation network},
+  
+  author={Ning, Hailong and Zheng, Xiangtao and Yuan, Yuan and Lu, Xiaoqiang},
+  
+  journal={Neurocomputing},
+  
+  volume={423},
+  
+  pages={124--134},
+  
+  year={2021},
+  
+  publisher={Elsevier}
+  
 }
